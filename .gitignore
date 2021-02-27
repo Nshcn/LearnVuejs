@@ -1,0 +1,3 @@
+# Project exclude paths
+/learnwebpack/dist/
+/learnwebpack/node_modules/
